@@ -4,6 +4,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from scipy.io import loadmat
 from PIL import Image
 import math
+from testing import *
 
 joint_name = ['HeadF', 'HeadB', 'HeadL', 'SpineF', 'SpineM', 'SpineL', 
             'Offset1', 'Offset2', 'HipL', 'HipR', 'ElbowL', 'ArmL', 
@@ -233,9 +234,10 @@ def distBin(dist, numb):
     for i in range(numb):
         distHist(count(indicies[i], bins))
         distPlot(count(indicies[i], bins))
+        plotHist(count(indicies[i], bins), bins)
 
 def count(indicies, bins):
-    output = np.array(np.zeros(11))
-    for i in range(10):
-        output[i] = indicies.count(i+1)
+    output = []
+    for i in range(11):
+        output.append(indicies.count(i+1))
     return output
