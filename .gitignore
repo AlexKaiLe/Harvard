@@ -2,3 +2,4 @@
 *.mat
 *.trc
 *.h5
+*.npy
