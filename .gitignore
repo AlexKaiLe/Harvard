@@ -5,3 +5,4 @@
 *.npy
 *.DS_Store
 *.asv
+*.fig

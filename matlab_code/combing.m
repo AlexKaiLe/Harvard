@@ -201,6 +201,11 @@ end
 toc
 % headpoints 
 ptsH
+Headpts = combed(:,:,[2 3 4]);
+bodyPts = combed(:,:,[1 5:22]);
+Newcombed = cat(3, Headpts, bodyPts);
+save('newcombed.mat','Newcombed')
+imagesc(reshape(Newcombed, [length(Newcombed) 3*nMarkers])')
 
 disp(size(trip))
 
