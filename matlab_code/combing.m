@@ -140,8 +140,7 @@ for i = 2:n
 end
 
 % Show image
-imagesc(reshape(combed, [length(combed) 3*nMarkers])')
-
+ 
 disp(size(combed))
 save('test_temportal_new.mat','combed')
 % temp_combed = reshape(combed, [length(combed), 3*nMarkers]);
