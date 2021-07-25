@@ -143,8 +143,10 @@ end
  
 disp(size(combed))
 save('test_temportal_new.mat','combed')
-% temp_combed = reshape(combed, [length(combed), 3*nMarkers]);
-% disp(size(temp_combed))
+% imagesc(reshape(combed, [length(combed) 3*nMarkers])')
+new_combed = reshape(combed, [length(combed) 3*nMarkers])';
+imagesc(new_combed)
+save('test_temp.mat','new_combed')
 
 % C = [0 2 4 6; 8 10 12 14; 16 18 20 22];
 % disp(size(C))
