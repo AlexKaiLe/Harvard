@@ -26,10 +26,10 @@ def plotFrame(frame, showing):
     ax = fig.add_subplot(projection='3d')
 
     # adding points, labels and lines
-    # try:
-    ax.scatter(x,y,z, color='#ff5e5e', s =10)
-    # except:
-    #     pass
+    try:
+        ax.scatter(x,y,z, color='#ff5e5e', s =10)
+    except:
+        pass
     print(showing)
     if showing == 1 or showing == 2 or showing == 3:
         addLabels(ax, x, y, z)
@@ -101,4 +101,4 @@ def addLabels(ax, x, y, z):
             pass
 
 dispy_matrix = loadmat('/Users/alexle/Desktop/Harvard/Python_Files/mat_files/trainTestSplit.mat')['split1True']
-plotFrame(dispy_matrix[0], 1)
+plotFrame(dispy_matrix[0], 0)

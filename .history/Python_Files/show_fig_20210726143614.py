@@ -101,4 +101,4 @@ def addLabels(ax, x, y, z):
             pass
 
 dispy_matrix = loadmat('/Users/alexle/Desktop/Harvard/Python_Files/mat_files/trainTestSplit.mat')['split1True']
-plotFrame(dispy_matrix[0], 1)
+plotFrame(dispy_matrix[0], 0)

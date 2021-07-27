@@ -26,10 +26,10 @@ def plotFrame(frame, showing):
     ax = fig.add_subplot(projection='3d')
 
     # adding points, labels and lines
-    # try:
-    ax.scatter(x,y,z, color='#ff5e5e', s =10)
-    # except:
-    #     pass
+    try:
+        ax.scatter(x,y,z, color='#ff5e5e', s =10)
+    except:
+        pass
     print(showing)
     if showing == 1 or showing == 2 or showing == 3:
         addLabels(ax, x, y, z)
@@ -43,13 +43,12 @@ def plotFrame(frame, showing):
     ax.set_xlabel("X axis")
     ax.set_ylabel("Y axis")
     ax.set_zlabel("Z axis")
-    fig.show()
+    
     # # rotate the axes and update
     # for angle in range(0, 360):
     #     ax.view_init(30, angle)
     #     plt.draw()
     #     plt.pause(.001)
-
 
 # Draw major lines in the rat model
 def drawLines(ax,x, y, z):
@@ -100,5 +99,5 @@ def addLabels(ax, x, y, z):
         except:
             pass
 
-dispy_matrix = loadmat('/Users/alexle/Desktop/Harvard/Python_Files/mat_files/trainTestSplit.mat')['split1True']
-plotFrame(dispy_matrix[0], 1)
+dispy_matrix = loadmat('Users/alexle/Desktop/Harvard/Python_Files/mat_files/trainTestSplit.mat')['split1True']
+plotFrame(dispy_matrix[0], 0)
