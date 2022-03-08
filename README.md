@@ -12,9 +12,8 @@ Primary Mentor: Ugne Kilbaite
 
 Link to final presentation slides: [Computational Approaches to Analyze Rat Behavior](https://docs.google.com/presentation/d/1nrKaZe0oUiAaghpWq5P3xiBdXXz9smZ-fnYRl-Oz_k8/edit?usp=sharing)
 
-![Screen Shot 2022-03-08 at 1 19 51 AM](https://user-images.githubusercontent.com/29731342/157276114-41f1a094-7eae-467a-82cf-a1817e384bee.png)
+![ezgif-2-d5c525f9d9](https://user-images.githubusercontent.com/29731342/157276383-91326c2f-c7a6-41d4-a156-6e0255f50cdb.gif)
 
-![Screen Shot 2022-03-08 at 1 19 19 AM](https://user-images.githubusercontent.com/29731342/157276127-2bb2ee31-4623-49a7-86d4-8e09072bc89d.png)
 
 
 ## Introduction
@@ -32,7 +31,10 @@ Python Juyper Notebook located in file `Python_Files/skeleton.ipynb `
 - Do not know which points are missing and which points are present
 - Computing power (time intensive to train/test) 
 
-![Screen Shot 2022-03-08 at 1 19 51 AM](https://user-images.githubusercontent.com/29731342/157178627-a6aa23f7-6e16-4220-a81d-a9443efdc1e1.png)
+![Screen Shot 2022-03-08 at 1 19 51 AM](https://user-images.githubusercontent.com/29731342/157276114-41f1a094-7eae-467a-82cf-a1817e384bee.png)
+
+![Screen Shot 2022-03-08 at 1 19 19 AM](https://user-images.githubusercontent.com/29731342/157276127-2bb2ee31-4623-49a7-86d4-8e09072bc89d.png)
+
 
 ![ezgif-2-fafa63b602](https://user-images.githubusercontent.com/29731342/157178659-9820f494-8768-4cf1-aa85-e8030b40f37e.gif)
 
