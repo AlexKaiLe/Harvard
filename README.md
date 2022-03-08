@@ -37,12 +37,11 @@ Python Juyper Notebook located in file `Python_Files/skeleton.ipynb `
 
 
 
-Unlabeled Raw 3D skeletal rat points
-
+1. Unlabeled Raw 3D skeletal rat points
 ![ezgif-2-1025e4ee62](https://user-images.githubusercontent.com/29731342/157176132-ecb931d4-413f-44df-a0b3-191dde23024e.gif)
 
-Labeled Raw 3D skeletal rat points
 
+2. Labeled Raw 3D skeletal rat points
 ![ezgif-2-c41fd313d5](https://user-images.githubusercontent.com/29731342/157175950-76e4db9f-4ece-417e-898c-67086a651b90.gif)
 
 Mesh connection between every point in the skeleton 
@@ -58,6 +57,7 @@ Outline of correct skeleton with labeled points
 ![ezgif-2-fafa63b602](https://user-images.githubusercontent.com/29731342/157175524-7244f174-2484-4c62-a2b1-17d387d988e6.gif)
 
 Raw temporal data with missing markers 
+
 ![ezgif-2-a5fccb3b33](https://user-images.githubusercontent.com/29731342/157175191-f11c1297-fe2e-40c6-81c9-c4b01f0fb16c.gif)
 
 Prediction on raw temporal data with missing markers of rat skeletal positions 
