@@ -12,10 +12,9 @@ Primary Mentor: Ugne Kilbaite
 
 Link to final presentation slides: [Computational Approaches to Analyze Rat Behavior](https://docs.google.com/presentation/d/1nrKaZe0oUiAaghpWq5P3xiBdXXz9smZ-fnYRl-Oz_k8/edit?usp=sharing)
 
-![Screen Shot 2022-03-08 at 1 19 51 AM](https://user-images.githubusercontent.com/29731342/157179032-090bdfcd-579d-4d54-aeff-27b135ad2ff7.png)
+![Screen Shot 2022-03-08 at 1 19 51 AM](https://user-images.githubusercontent.com/29731342/157276114-41f1a094-7eae-467a-82cf-a1817e384bee.png)
 
-![Screen Shot 2022-03-08 at 1 19 19 AM](https://user-images.githubusercontent.com/29731342/157179016-43a7224c-4587-4dbf-b895-4f58ba998289.png)
-
+![Screen Shot 2022-03-08 at 1 19 19 AM](https://user-images.githubusercontent.com/29731342/157276127-2bb2ee31-4623-49a7-86d4-8e09072bc89d.png)
 
 
 ## Introduction
