@@ -31,11 +31,25 @@ Python Juyper Notebook located in file `Python_Files/skeleton.ipynb `
 - Do not know which points are missing and which points are present
 - Computing power (time intensive to train/test) 
 
+
+## Further applications
+- Used to correlate movement with neurological activity 
+- Track large datasets over course of many months 
+- Used in other labs that track movement of animals 
+- Generalized for multiple rats within the same environment
+
+
 ![Screen Shot 2022-03-08 at 1 19 51 AM](https://user-images.githubusercontent.com/29731342/157276114-41f1a094-7eae-467a-82cf-a1817e384bee.png)
 
 ![Screen Shot 2022-03-08 at 1 19 19 AM](https://user-images.githubusercontent.com/29731342/157276127-2bb2ee31-4623-49a7-86d4-8e09072bc89d.png)
 
+![Screen Shot 2022-03-08 at 11 24 30 AM](https://user-images.githubusercontent.com/29731342/157281369-d4384acc-da50-4846-a177-8e69267d46be.png)
 
+![Screen Shot 2022-03-08 at 11 24 55 AM](https://user-images.githubusercontent.com/29731342/157281411-13cad8f5-3e87-4798-90bc-7a3676cb5441.png)
+
+![Screen Shot 2022-03-08 at 11 26 53 AM](https://user-images.githubusercontent.com/29731342/157281430-a86f3a69-4094-4090-a037-b8e8d9ecaaf3.png)
+
+![Screen Shot 2022-03-08 at 11 27 04 AM](https://user-images.githubusercontent.com/29731342/157281449-7577d29e-689d-4088-a20c-7dbcf80809f8.png)
 
 1. Unlabeled Raw 3D skeletal rat points
 
