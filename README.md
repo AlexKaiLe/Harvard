@@ -35,9 +35,6 @@ Python Juyper Notebook located in file `Python_Files/skeleton.ipynb `
 
 ![Screen Shot 2022-03-08 at 1 19 19 AM](https://user-images.githubusercontent.com/29731342/157276127-2bb2ee31-4623-49a7-86d4-8e09072bc89d.png)
 
-
-![ezgif-2-fafa63b602](https://user-images.githubusercontent.com/29731342/157178659-9820f494-8768-4cf1-aa85-e8030b40f37e.gif)
-
 1
 ![ezgif-2-a5fccb3b33](https://user-images.githubusercontent.com/29731342/157175191-f11c1297-fe2e-40c6-81c9-c4b01f0fb16c.gif)
 
