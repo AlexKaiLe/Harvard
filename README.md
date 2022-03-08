@@ -20,3 +20,7 @@ We do not know exactly how the nervous system controls motor behavior in health 
 The following code constructs a CNN that can predict the identity of a point in a given frame. The following notebook is divided into two major sections. The first section is to create a CNN to train and test a deep learning model using TensorFlow. The second section is to take temporal data and predict a cluster of points in time. At the end of the program, you can visualize a rat's movement in 3D space. This is a deep learning project analyzing rat behavior and their correlation with neurological activity. Utilized MATLAB to preprocess raw video data and developed Python scripts utilizing TensorFlow to construct a convolutional neural network to identify unmarked 3-dimensional points using spatial and temporal data. Developed a variational autoencoder to predict coordinates of missing joints not registered by raw video feed.
 
 Python Juyper Notebook located in file `Python_Files/skeleton.ipynb `
+
+![ezgif-2-a5fccb3b33](https://user-images.githubusercontent.com/29731342/157175191-f11c1297-fe2e-40c6-81c9-c4b01f0fb16c.gif)
+
+
