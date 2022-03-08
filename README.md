@@ -62,14 +62,17 @@ Python Juyper Notebook located in file `Python_Files/skeleton.ipynb `
 
 
 6. Raw temporal data with missing markers 
+
 ![ezgif-2-a5fccb3b33](https://user-images.githubusercontent.com/29731342/157175191-f11c1297-fe2e-40c6-81c9-c4b01f0fb16c.gif)
 
 
 7. Prediction on raw temporal data with missing markers of rat skeletal positions 
+
 ![ezgif-2-ccdde74a9e](https://user-images.githubusercontent.com/29731342/157175378-fb723542-e01a-4d0d-9303-41427eaca14f.gif)
 
 
 8. Variational Autoencoder predictions using predicted labels from temporal and spacial data. Comparing predicted VAE (red) to true position (blue)
+
 ![ezgif-2-59e9ce6268](https://user-images.githubusercontent.com/29731342/157177100-bacd7ae8-6221-4548-823b-8998210b9aff.gif)
 
 ![loadcat](https://user-images.githubusercontent.com/29731342/157178046-f0883d73-027f-41de-92a7-3c162333255a.gif)
