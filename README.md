@@ -13,7 +13,7 @@ Primary Mentor: Ugne Kilbaite
 Link to final presentation slides: [Computational Approaches to Analyze Rat Behavior 
 ](https://docs.google.com/presentation/d/1nrKaZe0oUiAaghpWq5P3xiBdXXz9smZ-fnYRl-Oz_k8/edit?usp=sharing)
 
-![Supplemental_video_5_3](https://user-images.githubusercontent.com/29731342/157177723-e11d75e3-7614-4c13-988a-09f9da3d5fb2.gif)
+![ezgif-2-d5c525f9d9](https://user-images.githubusercontent.com/29731342/157178020-d2fc6e31-5d5d-4a6b-a561-961c1202a12d.gif)
 
 
 ## Introduction
@@ -55,4 +55,5 @@ Python Juyper Notebook located in file `Python_Files/skeleton.ipynb `
 8
 ![ezgif-2-59e9ce6268](https://user-images.githubusercontent.com/29731342/157177100-bacd7ae8-6221-4548-823b-8998210b9aff.gif)
 
+![loadcat](https://user-images.githubusercontent.com/29731342/157178046-f0883d73-027f-41de-92a7-3c162333255a.gif)
 
