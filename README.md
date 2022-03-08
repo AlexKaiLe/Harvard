@@ -35,14 +35,13 @@ Python Juyper Notebook located in file `Python_Files/skeleton.ipynb `
 
 ![Screen Shot 2022-03-08 at 1 19 19 AM](https://user-images.githubusercontent.com/29731342/157276127-2bb2ee31-4623-49a7-86d4-8e09072bc89d.png)
 
-1
-![ezgif-2-a5fccb3b33](https://user-images.githubusercontent.com/29731342/157175191-f11c1297-fe2e-40c6-81c9-c4b01f0fb16c.gif)
 
-2
-![ezgif-2-ccdde74a9e](https://user-images.githubusercontent.com/29731342/157175378-fb723542-e01a-4d0d-9303-41427eaca14f.gif)
 
-3
-![ezgif-2-fafa63b602](https://user-images.githubusercontent.com/29731342/157175524-7244f174-2484-4c62-a2b1-17d387d988e6.gif)
+7
+![ezgif-2-1025e4ee62](https://user-images.githubusercontent.com/29731342/157176132-ecb931d4-413f-44df-a0b3-191dde23024e.gif)
+
+6
+![ezgif-2-c41fd313d5](https://user-images.githubusercontent.com/29731342/157175950-76e4db9f-4ece-417e-898c-67086a651b90.gif)
 
 4
 ![ezgif-2-383bf9fb8b](https://user-images.githubusercontent.com/29731342/157175616-d2efc4fc-5d23-4cfd-84e4-28ab9f1e61a9.gif)
@@ -50,11 +49,14 @@ Python Juyper Notebook located in file `Python_Files/skeleton.ipynb `
 5
 ![ezgif-2-c2033167fc](https://user-images.githubusercontent.com/29731342/157175759-12d50235-333f-404f-a30f-adbb8e2ef01b.gif)
 
-6
-![ezgif-2-c41fd313d5](https://user-images.githubusercontent.com/29731342/157175950-76e4db9f-4ece-417e-898c-67086a651b90.gif)
+3
+![ezgif-2-fafa63b602](https://user-images.githubusercontent.com/29731342/157175524-7244f174-2484-4c62-a2b1-17d387d988e6.gif)
 
-7
-![ezgif-2-1025e4ee62](https://user-images.githubusercontent.com/29731342/157176132-ecb931d4-413f-44df-a0b3-191dde23024e.gif)
+1
+![ezgif-2-a5fccb3b33](https://user-images.githubusercontent.com/29731342/157175191-f11c1297-fe2e-40c6-81c9-c4b01f0fb16c.gif)
+
+2
+![ezgif-2-ccdde74a9e](https://user-images.githubusercontent.com/29731342/157175378-fb723542-e01a-4d0d-9303-41427eaca14f.gif)
 
 8
 ![ezgif-2-59e9ce6268](https://user-images.githubusercontent.com/29731342/157177100-bacd7ae8-6221-4548-823b-8998210b9aff.gif)
