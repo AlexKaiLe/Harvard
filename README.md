@@ -14,6 +14,7 @@ Link to final presentation slides: [Computational Approaches to Analyze Rat Beha
 
 ![ezgif-2-d5c525f9d9](https://user-images.githubusercontent.com/29731342/157276383-91326c2f-c7a6-41d4-a156-6e0255f50cdb.gif)
 
+Source: Jesse Marshall
 
 
 ## Introduction
